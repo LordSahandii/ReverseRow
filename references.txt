@@ -1,0 +1,5 @@
+Creating & Publishing Android Library - https://www.section.io/engineering-education/how-to-create-and-publish-your-own-android-library/
+
+Jitpack - https://docs.jitpack.io/
+
+Implementing issue - https://github.com/AppIntro/AppIntro/issues/957
